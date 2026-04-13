@@ -12,17 +12,19 @@
 
 Напишем докерфайл, который просто берет готовую версию питон, ставит фласк, копирует приложение внутрь контейнера и запускает его на порте. 
 
-Переходим в проект, запукскаем minikube, переключаем на него Docker и собираем этот образ. 
+Поднимаем minikube кластер(`minikube start`):
 
-Проверяем, что у нас все установилось и собираем образ. 
+![telegram-cloud-photo-size-2-5397814597701538298-y](https://github.com/user-attachments/assets/8eb601f4-837b-4466-849c-cfd5ba344b8e)
 
-<img width="891" height="517" alt="image" src="https://github.com/user-attachments/assets/22ae4cf0-086f-4655-99f1-e6d436c2f143" />
+С третьего раза собираем образ: 
+
+![telegram-cloud-photo-size-2-5397814597701538340-y](https://github.com/user-attachments/assets/91183169-1e0b-42b6-a9fb-57283d205646)
 
 и запускаем все одной командой 'kubectl apply -f k8s/' : 
 
 <img width="742" height="223" alt="image" src="https://github.com/user-attachments/assets/1e73d2be-8c9d-4aaa-9811-f59cd48333ef" />
 
-ееее! Все заработало: 
+Кажется, все заработало! 
 
 <img width="868" height="481" alt="image" src="https://github.com/user-attachments/assets/d5d03ddb-68e9-4c1d-b0b5-1bff46ca290c" />
 
