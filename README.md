@@ -16,7 +16,11 @@
 
 Проверяем, что у нас все установилось и собираем образ. 
 <img width="891" height="517" alt="image" src="https://github.com/user-attachments/assets/22ae4cf0-086f-4655-99f1-e6d436c2f143" />
+
 и запускаем все одной командой 'kubectl apply -f k8s/' : 
 <img width="742" height="223" alt="image" src="https://github.com/user-attachments/assets/1e73d2be-8c9d-4aaa-9811-f59cd48333ef" />
+ееее! Все заработало: 
+
+<img width="868" height="481" alt="image" src="https://github.com/user-attachments/assets/d5d03ddb-68e9-4c1d-b0b5-1bff46ca290c" />
 
 
