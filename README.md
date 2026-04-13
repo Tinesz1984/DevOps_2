@@ -1,6 +1,5 @@
 # DevOps_2
 Лабораторная работа №2
----
 # Часть первая 
 Поднять kubernets кластер локально. 
 Для выполнения этого задания я использовала три ресурса: 
@@ -28,4 +27,6 @@
 
 <img width="868" height="481" alt="image" src="https://github.com/user-attachments/assets/d5d03ddb-68e9-4c1d-b0b5-1bff46ca290c" />
 
+---
 
+# Часть вторая 
