@@ -20,7 +20,7 @@
 
 ![telegram-cloud-photo-size-2-5397814597701538340-y](https://github.com/user-attachments/assets/91183169-1e0b-42b6-a9fb-57283d205646)
 
-и запускаем все одной командой 'kubectl apply -f k8s/' : 
+Поднимем кластер командой `kubectl apply -f k8s/` и запустим: 
 
 <img width="742" height="223" alt="image" src="https://github.com/user-attachments/assets/1e73d2be-8c9d-4aaa-9811-f59cd48333ef" />
 
