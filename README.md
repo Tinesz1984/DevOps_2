@@ -54,6 +54,18 @@
 
 <img width="636" height="273" alt="image" src="https://github.com/user-attachments/assets/e7680963-9023-4b79-82ca-f67b046aa9e5" />
 
+Поменяем сервис с помощью апдейта релиза. Самое простое - изменить текст в `chart/values.yaml`. Заменим приветственное сообщение на анекдот про девопс. Выполним udate релиз. 
+
+<img width="736" height="303" alt="image" src="https://github.com/user-attachments/assets/8d1f48c8-01dc-44ac-87ff-7b2d40cc2a29" />
+
+Не знаю, противоречит это лабе или нет, но по старому url я не смогла попасть на страницу. Пришлось запросить новый. И получить: 
+
+<img width="810" height="293" alt="image" src="https://github.com/user-attachments/assets/29524095-478b-4952-a845-6a92c117a5ec" />
+
+
+
+
+
 
 
 
