@@ -38,19 +38,19 @@
 
 <img width="873" height="368" alt="image" src="https://github.com/user-attachments/assets/352dabb6-e55e-4514-86b8-4235c24aa23a" />
 
-Установим helm-chart в кластер 
+Установим helm-chart в кластер: 
 
 <img width="548" height="155" alt="image" src="https://github.com/user-attachments/assets/f8ce554f-e2b5-4ab4-87b6-e0da7382f665" />
 
-Узнаем имя сервиса 
+Узнаем имя сервиса: 
 
 <img width="730" height="107" alt="image" src="https://github.com/user-attachments/assets/7f2eba3b-896c-498c-8d2f-055f3c09294d" />
 
-Получаем url 
+Получим url 
 
 <img width="708" height="69" alt="image" src="https://github.com/user-attachments/assets/7b70d72f-51a8-4354-ad1e-12081439400b" />
 
-Убеждаемся, что все работает 
+и убедимся, что все работает 
 
 <img width="636" height="273" alt="image" src="https://github.com/user-attachments/assets/e7680963-9023-4b79-82ca-f67b046aa9e5" />
 
